@@ -1,0 +1,4 @@
+javac -encoding UTF-8 Matrix.java
+javac -encoding UTF-8 Main.java
+java Main
+pause
